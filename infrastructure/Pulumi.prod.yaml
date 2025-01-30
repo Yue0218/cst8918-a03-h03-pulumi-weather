@@ -5,7 +5,7 @@ config:
   cst8918-a03-infra:publicPort: '80'
   cst8918-a03-infra:cpu: '1'
   cst8918-a03-infra:memory: '2'
-  cst8918-a03-infra:prefixName: 'cst8918a03buru0003' # Doshes removed because of naming rules and restrictions for Azure resources
+  cst8918-a03-infra:prefixName: 'cst8918a03h3buru0003' # Doshes removed because of naming rules and restrictions for Azure resources
   cst8918-a03-infra:imageTag: 'v0.3.0'
   cst8918-a03-infra:weatherApiKey:
-    secure: AAABADof6ECnZl5XYjrul8pxgn3zWBkNDPFSO6R3eroQWZUOIgmb1ISj/nWUQemehnKBaSulfLzs3X5+s0RUwA==
+    secure: AAABAB/eXixwA5SH+Br7r5VSx6sV6rD60KADm+I1h1QKigH7XG1HtiIdwEtuX0k+mz6Px7vNdCQo3e69TlrdOw==
